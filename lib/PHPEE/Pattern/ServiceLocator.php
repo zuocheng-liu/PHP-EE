@@ -1,9 +1,10 @@
 <?php
 
+namespace PHPEE\Pattern;
+
 /**
  * ServiceLocator
  */
-
 class ServiceLocator {
 
     private static $_instance = null;
